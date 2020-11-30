@@ -6,6 +6,10 @@
 
 ## Intraoperative Brain-Shift Compensation
 
+![Brain_Shift](Brain_Shift2.png "Brain Shift")
+
+Ivan, Michael E. et al. “Brain shift during bur hole-based procedures using interventional MRI.” Journal of neurosurgery 121 1 (2014): 149-60 .
+
 ---
 
 ## Students
