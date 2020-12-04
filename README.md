@@ -25,6 +25,10 @@ Ivan, Michael E. et al. “Brain shift during bur hole-based procedures using in
 
 Analyze existing and future assistance systems for Intraoperative Brain-shift compensation in our case.
 
+[Project Research Plan Proposal](Reseach_Conduction_Plan.md)
+[List of Papers](/Brain_Shift_papers)
+[Summary of Papers](/Brain_Shift_papers/Summary.md)
+
 ---
 
 ### Project Describtion
