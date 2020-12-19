@@ -1,6 +1,6 @@
 # MISR Meeting Agenda
 
-Sun 20 / 12 / 2020
+Sun 13:00 20 / 12 / 2020
 
 ---
 
