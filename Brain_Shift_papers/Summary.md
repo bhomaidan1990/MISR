@@ -38,13 +38,24 @@ autofocus pointer of the microscope was depicted correctly by the MR image data.
 
 ### 3. Brain Shift Correction Based on a Boundary Element Biomechanical Model with Different Material Properties (2003)
 
+- Depends on Biomechanical Model
+
 ---
 
 ### 4. Intraoperative Segmentation and Nonrigid Registration for Image Guided Therapy (2000)
 
+- The Paper is so old.
+
 ---
 
 ### 5. Knowledge modeling in image-guided neurosurgery: application in understanding intraoperative brain shift (2007)
+
+- During an image-guided neurosurgery procedure, the first main deformation (also called brain shift) occurs while opening the dura matter and the arachnoid.
+- Deformations are different according to the timing of the surgical procedure and to the surgical action being performed.
+- the objective is to succeed in registering preoperative images regarding the deformations.
+- This can be achieved by using intraoperative imaging and/or  biomechanical models
+- Technical difficulties such as the limited intraoperative MRI spatial resolution and the poor temporal resolution of registration algorithms
+- TBC
 
 ---
 
