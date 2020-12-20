@@ -90,6 +90,8 @@ autofocus pointer of the microscope was depicted correctly by the MR image data.
 
 ### 8. A comprehensive model-assisted brain shift correction approach in image-guided neurosurgery: a case study in brain swelling and subsequent sag after craniotomy (Vanderbilt 2019)
 
+BioMechanical Model.
+
 ---
 
 ### 9. Intraoperative Brain Shift Compensation: Accounting for Dural Septa (IEEE 2011)
@@ -153,6 +155,14 @@ autofocus pointer of the microscope was depicted correctly by the MR image data.
 ---
 
 ### 24. Stereopsis-Guided Brain Shift Compensation (PhD Thesis 2004)
+
+---
+
+### 25. Resolve Intraoperative Brain Shift as Imitation Game (Confrence paper 2018)
+
+---
+
+### 26. Automatic ultrasound–MRI registration for neurosurgery using the 2D and 3D LC2 Metric (MIA 2014)
 
 ---
 
