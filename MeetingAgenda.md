@@ -44,8 +44,8 @@ TBD in the meeting
   
 System Analysis Subtasks | Student | N of slides | Done
 :------------: | :-------------: | :-------------: | :-------------:
-Choise justification (why did you choose this system?) | ? |  ? | :white_check_mark:
-Technical aspects(what is this system?) | ? |  ? | :white_check_mark:
+Choise justification (why did you choose this system?) | ? |  ? | :heavy_check_mark:
+Technical aspects(what is this system?) | ? |  ? | :heavy_check_mark:
 Level of maturity (for instance research project, clinical trials, commercial system) | ? |  ? | :white_check_mark:
 advantages and limitations | ? |  ? | :white_check_mark:
 
