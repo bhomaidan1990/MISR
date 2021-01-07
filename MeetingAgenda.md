@@ -22,7 +22,7 @@ Sun 13:00 20 / 12 / 2020
 Tasks | N of slides | Done
 :------------: | :-------------: | :-------------:
 Introduction and clinical context | ? | :heavy_check_mark:
-System Analysis | ? | :white_check_mark:
+System Analysis | ? | :heavy_check_mark:
 System Evaluation | ? | :white_check_mark:
 Conclusion | ? | :white_check_mark:
 
